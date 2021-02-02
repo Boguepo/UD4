@@ -9,7 +9,7 @@ public class EJ2_App {
 		System.out.println("Valor de n: "+n+"\nValor de a: "+a+"\nValor de c: "+c);
 		
 		System.out.println("Suma "+n+" + "+a+": "+(n+a)+"\nResta "+a+" - "+n+": "+(a-n)+""
-				+ "\nValor numerico de C: "+cValue);	
+				+ "\nValor numerico de la variable C: "+cValue);	
 		
 		
 	}
